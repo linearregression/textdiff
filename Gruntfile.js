@@ -14,8 +14,7 @@ grunt.initConfig({
         },
         alias: [
           "./textdiff.js:textdiff"
-        ],
-        external: ['lodash']
+        ]
       },
     }
   },
