@@ -10,7 +10,7 @@ grunt.initConfig({
       dest: './dist/textdiff.js',
       options: {
         browserifyOptions: {
-          standalone: 'createWs'
+          standalone: 'textdiff'
         },
         alias: [
           "./textdiff.js:textdiff"
