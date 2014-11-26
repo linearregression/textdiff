@@ -2,7 +2,7 @@
   "name": "textdiff",
   "main": "textdiff.js",
   "version": "0.0.0",
-  "homepage": "https://github.com/sciworth/textdiff",
+  "homepage": "https://github.com/grammarly/textdiff",
   "authors": [
     "Igor Kononuchenko <kigorw@gmail.com>"
   ],
