@@ -1,6 +1,6 @@
 {
   "name": "textdiff",
-  "main": "dist/textdiff.js",
+  "main": "textdiff.js",
   "version": "0.0.0",
   "homepage": "https://github.com/grammarly/textdiff",
   "authors": [

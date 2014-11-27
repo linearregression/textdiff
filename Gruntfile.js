@@ -11,10 +11,7 @@ grunt.initConfig({
       options: {
         browserifyOptions: {
           standalone: 'textdiff'
-        },
-        alias: [
-          "./textdiff.js:textdiff"
-        ]
+        }
       },
     }
   },

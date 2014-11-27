@@ -105,9 +105,9 @@ if(typeof module == "undefined") {
 try { module.exports = {diffPos: diffPos, textdiff: textdiff} } catch(e) {}
 })()
 
-},{}],"textdiff":[function(require,module,exports){
+},{}],2:[function(require,module,exports){
 //= require_tree ./lib
 if(typeof module != 'undefined') module.exports = require('./lib/textdiff')
 
-},{"./lib/textdiff":1}]},{},["textdiff"])("textdiff")
+},{"./lib/textdiff":1}]},{},[2])(2)
 });
