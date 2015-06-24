@@ -1,5 +1,5 @@
 {
-  "name": "textdiff",
+  "name": "@grammarly-npm/textdiff",
   "version": "0.0.1",
   "description": "JS textdiff",
   "main": "textdiff.js",
